@@ -51,3 +51,6 @@
     
 ### 🕞 데이터베이스 구성
 ![KakaoTalk_20240722_041844237](https://github.com/user-attachments/assets/e068b78d-2002-4d26-93ce-540035dc73a3)
+
+### 🕞 원본 프로젝트 링크
+https://github.com/chimy2/tennis-project?tab=readme-ov-file
